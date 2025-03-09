@@ -1,5 +1,5 @@
 # cap_budget
-A program that helps people plan via capital budgeting tools
+A simple Python program that helps people plan for business via capital budgeting index-calculating tools
 
 ## Functionalities
 
